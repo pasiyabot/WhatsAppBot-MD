@@ -22,7 +22,7 @@
 /**
    * MIT License
 * 
-   * Create By Dika Ardnt.
+   * Create By .➬ 🥳╚𝚈𝚃 𝙱𝙾𝚃╝🥳
    * Edited By Alien-Alfa
    * Copyright (c) 2021 Alien-Alfa.
 * 
